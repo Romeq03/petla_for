@@ -1,0 +1,14 @@
+/Users/bartek/Projects/petla_for/petla_for/bin/Debug/net8.0/petla_for
+/Users/bartek/Projects/petla_for/petla_for/bin/Debug/net8.0/petla_for.deps.json
+/Users/bartek/Projects/petla_for/petla_for/bin/Debug/net8.0/petla_for.runtimeconfig.json
+/Users/bartek/Projects/petla_for/petla_for/bin/Debug/net8.0/petla_for.dll
+/Users/bartek/Projects/petla_for/petla_for/bin/Debug/net8.0/petla_for.pdb
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.AssemblyInfoInputs.cache
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.AssemblyInfo.cs
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.csproj.CoreCompileInputs.cache
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.dll
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/refint/petla_for.dll
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.pdb
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/petla_for.genruntimeconfig.cache
+/Users/bartek/Projects/petla_for/petla_for/obj/Debug/net8.0/ref/petla_for.dll
